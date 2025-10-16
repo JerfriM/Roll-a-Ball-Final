@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scenes/MenuPrincipal.unity
+    guid: 8cb33dc2d3b94a945a98266e872161a5
+  - enabled: 1
+    path: Assets/_Scenes/Opciones.unity
+    guid: 9ae99de87e9989d43a1a3826e9c11d8a
+  - enabled: 1
+    path: Assets/_Scenes/Nivel1.unity
+    guid: 0b75241731d6c7c41b8427d3c1a4d4df
+  - enabled: 1
+    path: Assets/_Scenes/Nivel2.unity
+    guid: 9c5088aadbb74b545b34bf1831d1a3f8
+  - enabled: 1
+    path: Assets/_Scenes/Nivel3.unity
+    guid: e7b015baa0eac9445b5f39fbcc73bd9a
+  - enabled: 1
+    path: Assets/_Scenes/Nivel4.unity
+    guid: fb7893c1965f7e446bf3f4d55851faef
+  - enabled: 1
+    path: Assets/_Scenes/Nivel5.unity
+    guid: 4b28b1578fdf35e43be9fefbf2832ab3
+  - enabled: 1
+    path: Assets/_Scenes/Nivel6.unity
+    guid: 89cb2b0c06dcc35408571754e36ea488
+  - enabled: 1
+    path: Assets/_Scenes/Nivel7.unity
+    guid: c01d81abf0bc1e04aaf3d43e0ddf4f4f
+  - enabled: 1
+    path: Assets/_Scenes/Nivel8.unity
+    guid: 18d1f99c91761844f91b772994bce1ef
+  - enabled: 1
+    path: Assets/_Scenes/Nivel9.unity
+    guid: 8c9c80ca7eb5e3e4ba194e889f506711
+  - enabled: 1
+    path: Assets/_Scenes/Nivel10.unity
+    guid: bdbb00ac69bc69e479afedb81075d3c8
+  - enabled: 1
+    path: Assets/_Scenes/Nivel11.unity
+    guid: 0d75bac2e265ae649b2d374ffc958ac5
+  - enabled: 1
+    path: Assets/_Scenes/Nivel12.unity
+    guid: 5e9cbfbc59e4fb04cb35447775759af0
+  - enabled: 1
+    path: Assets/_Scenes/Nivel13.unity
+    guid: f76c092da3cb9d445bcf45331e18090a
+  - enabled: 1
+    path: Assets/_Scenes/Nivel14.unity
+    guid: e277a723a6262754d88d60db234e9372
+  - enabled: 1
+    path: Assets/_Scenes/Nivel15.unity
+    guid: e8efc374373da474c9024a0051182849
+  - enabled: 1
+    path: Assets/_Scenes/Nivel16.unity
+    guid: 212a66eb0ce32fd4d99dd31d3943729b
+  - enabled: 0
+    path: Assets/Scenes/escenas.unity
+    guid: 6a2ccdae96fbcb749ad655b99bcb4dad
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0
